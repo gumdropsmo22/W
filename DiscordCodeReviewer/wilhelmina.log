@@ -1,0 +1,267 @@
+2025-05-11 07:53:03,664 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 08:43:14,407 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 08:47:38,293 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 08:51:28,979 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 08:52:40,776 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 08:53:50,438 - web - INFO - Discord bot started in background thread
+2025-05-11 08:53:51,025 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 08:53:51,026 - bot - CRITICAL - No Discord token provided. Please check your .env file.
+2025-05-11 08:54:02,977 - web - WARNING - Discord bot not started - no token provided or web-only mode enabled
+2025-05-11 08:54:07,563 - web - WARNING - Discord bot not started - no token provided or web-only mode enabled
+2025-05-11 08:54:15,000 - web - WARNING - Discord bot not started - no token provided or web-only mode enabled
+2025-05-11 10:55:26,281 - web - WARNING - Discord bot not started - no token provided or web-only mode enabled
+2025-05-11 13:07:05,965 - web - INFO - Discord bot started in background thread
+2025-05-11 13:07:07,924 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:07:07,925 - discord.client - INFO - logging in using static token
+2025-05-11 13:07:08,516 - bot - ERROR - ❌ Failed to load core utilities: Extension 'cogs' raised an error: TypeError: object NoneType can't be used in 'await' expression
+2025-05-11 13:07:09,294 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:07:09,307 - bot - ERROR - ❌ Failed to load cogs.coven: ExtensionFailed: Extension 'cogs.coven' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:09,315 - bot - ERROR - ❌ Failed to load cogs.tarot: ExtensionFailed: Extension 'cogs.tarot' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:09,466 - bot - INFO - ✅ Loaded cogs.sass
+2025-05-11 13:07:09,469 - bot - ERROR - ❌ Failed to load cogs.images: ExtensionFailed: Extension 'cogs.images' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:09,525 - bot - ERROR - ❌ Failed to load cogs.moderation: ExtensionFailed: Extension 'cogs.moderation' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:09,528 - bot - ERROR - ❌ Failed to load cogs.admin: ExtensionFailed: Extension 'cogs.admin' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:09,841 - bot - INFO - 🔌 Bot disconnected gracefully
+2025-05-11 13:07:09,842 - bot - CRITICAL - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-11 13:07:23,427 - web - INFO - Discord bot started in background thread
+2025-05-11 13:07:24,280 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:07:24,281 - discord.client - INFO - logging in using static token
+2025-05-11 13:07:24,783 - bot - ERROR - ❌ Failed to load core utilities: Extension 'cogs' raised an error: TypeError: object NoneType can't be used in 'await' expression
+2025-05-11 13:07:25,058 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:07:25,059 - bot - ERROR - ❌ Failed to load cogs.coven: ExtensionFailed: Extension 'cogs.coven' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:25,060 - bot - ERROR - ❌ Failed to load cogs.tarot: ExtensionFailed: Extension 'cogs.tarot' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:25,105 - bot - INFO - ✅ Loaded cogs.sass
+2025-05-11 13:07:25,105 - bot - ERROR - ❌ Failed to load cogs.images: ExtensionFailed: Extension 'cogs.images' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:25,112 - bot - ERROR - ❌ Failed to load cogs.moderation: ExtensionFailed: Extension 'cogs.moderation' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:25,113 - bot - ERROR - ❌ Failed to load cogs.admin: ExtensionFailed: Extension 'cogs.admin' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:25,395 - bot - INFO - 🔌 Bot disconnected gracefully
+2025-05-11 13:07:25,396 - bot - CRITICAL - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-11 13:07:31,797 - web - INFO - Discord bot started in background thread
+2025-05-11 13:07:32,337 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:07:32,338 - discord.client - INFO - logging in using static token
+2025-05-11 13:07:32,891 - bot - ERROR - ❌ Failed to load core utilities: Extension 'cogs' raised an error: TypeError: object NoneType can't be used in 'await' expression
+2025-05-11 13:07:33,092 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:07:33,094 - bot - ERROR - ❌ Failed to load cogs.coven: ExtensionFailed: Extension 'cogs.coven' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:33,095 - bot - ERROR - ❌ Failed to load cogs.tarot: ExtensionFailed: Extension 'cogs.tarot' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:33,135 - bot - INFO - ✅ Loaded cogs.sass
+2025-05-11 13:07:33,135 - bot - ERROR - ❌ Failed to load cogs.images: ExtensionFailed: Extension 'cogs.images' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:33,141 - bot - ERROR - ❌ Failed to load cogs.moderation: ExtensionFailed: Extension 'cogs.moderation' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:33,142 - bot - ERROR - ❌ Failed to load cogs.admin: ExtensionFailed: Extension 'cogs.admin' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:07:33,442 - bot - INFO - 🔌 Bot disconnected gracefully
+2025-05-11 13:07:33,444 - bot - CRITICAL - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-05-11 13:14:06,958 - web - INFO - Discord bot started in background thread
+2025-05-11 13:14:07,519 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:14:07,521 - discord.client - INFO - logging in using static token
+2025-05-11 13:14:08,003 - bot - ERROR - ❌ Failed to load core utilities: Extension 'cogs' raised an error: TypeError: object NoneType can't be used in 'await' expression
+2025-05-11 13:14:08,209 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:14:08,210 - bot - ERROR - ❌ Failed to load cogs.coven: ExtensionFailed: Extension 'cogs.coven' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:14:08,211 - bot - ERROR - ❌ Failed to load cogs.tarot: ExtensionFailed: Extension 'cogs.tarot' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:14:08,241 - bot - INFO - ✅ Loaded cogs.sass
+2025-05-11 13:14:08,242 - bot - ERROR - ❌ Failed to load cogs.images: ExtensionFailed: Extension 'cogs.images' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:14:08,247 - bot - ERROR - ❌ Failed to load cogs.moderation: ExtensionFailed: Extension 'cogs.moderation' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:14:08,248 - bot - ERROR - ❌ Failed to load cogs.admin: ExtensionFailed: Extension 'cogs.admin' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:14:08,511 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 705c6e50f39e709e332d06c6662ad64a).
+2025-05-11 13:14:10,513 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:14:10,514 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:14:10,514 - bot - INFO - 🛠️ Loaded 2 cogs: Music, Sass
+2025-05-11 13:15:36,016 - web - INFO - Discord bot started in background thread
+2025-05-11 13:15:36,581 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:15:36,583 - discord.client - INFO - logging in using static token
+2025-05-11 13:15:37,034 - bot - ERROR - ❌ Failed to load core utilities: Extension 'cogs' raised an error: TypeError: object NoneType can't be used in 'await' expression
+2025-05-11 13:15:37,298 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:15:37,300 - bot - ERROR - ❌ Failed to load cogs.coven: ExtensionFailed: Extension 'cogs.coven' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:37,300 - bot - ERROR - ❌ Failed to load cogs.tarot: ExtensionFailed: Extension 'cogs.tarot' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:37,335 - bot - INFO - ✅ Loaded cogs.sass
+2025-05-11 13:15:37,336 - bot - ERROR - ❌ Failed to load cogs.images: ExtensionFailed: Extension 'cogs.images' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:37,342 - bot - ERROR - ❌ Failed to load cogs.moderation: ExtensionFailed: Extension 'cogs.moderation' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:37,343 - bot - ERROR - ❌ Failed to load cogs.admin: ExtensionFailed: Extension 'cogs.admin' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:37,656 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 23e2efef32be057f9bd87c39d576ce60).
+2025-05-11 13:15:39,659 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:15:39,659 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:15:39,659 - bot - INFO - 🛠️ Loaded 2 cogs: Music, Sass
+2025-05-11 13:15:45,352 - web - INFO - Discord bot started in background thread
+2025-05-11 13:15:45,905 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:15:45,906 - discord.client - INFO - logging in using static token
+2025-05-11 13:15:46,582 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:15:46,789 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:15:46,790 - bot - ERROR - ❌ Failed to load cogs.coven: ExtensionFailed: Extension 'cogs.coven' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:46,790 - bot - ERROR - ❌ Failed to load cogs.tarot: ExtensionFailed: Extension 'cogs.tarot' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:46,822 - bot - INFO - ✅ Loaded cogs.sass
+2025-05-11 13:15:46,823 - bot - ERROR - ❌ Failed to load cogs.images: ExtensionFailed: Extension 'cogs.images' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:46,828 - bot - ERROR - ❌ Failed to load cogs.moderation: ExtensionFailed: Extension 'cogs.moderation' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:46,828 - bot - ERROR - ❌ Failed to load cogs.admin: ExtensionFailed: Extension 'cogs.admin' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:47,098 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d351c928fb738c96df44ec080f30a9a0).
+2025-05-11 13:15:49,100 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:15:49,100 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:15:49,100 - bot - INFO - 🛠️ Loaded 2 cogs: Music, Sass
+2025-05-11 13:15:52,605 - web - INFO - Discord bot started in background thread
+2025-05-11 13:15:53,148 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:15:53,148 - discord.client - INFO - logging in using static token
+2025-05-11 13:15:53,649 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:15:53,820 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:15:53,822 - bot - ERROR - ❌ Failed to load cogs.coven: ExtensionFailed: Extension 'cogs.coven' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:53,822 - bot - ERROR - ❌ Failed to load cogs.tarot: ExtensionFailed: Extension 'cogs.tarot' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:53,851 - bot - INFO - ✅ Loaded cogs.sass
+2025-05-11 13:15:53,852 - bot - ERROR - ❌ Failed to load cogs.images: ExtensionFailed: Extension 'cogs.images' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:53,857 - bot - ERROR - ❌ Failed to load cogs.moderation: ExtensionFailed: Extension 'cogs.moderation' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:53,858 - bot - ERROR - ❌ Failed to load cogs.admin: ExtensionFailed: Extension 'cogs.admin' raised an error: ImportError: attempted relative import beyond top-level package
+2025-05-11 13:15:54,197 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 20216f686f88a6691ccec43a956c4143).
+2025-05-11 13:15:56,200 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:15:56,200 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:15:56,200 - bot - INFO - 🛠️ Loaded 2 cogs: Music, Sass
+2025-05-11 13:17:02,516 - web - INFO - Discord bot started in background thread
+2025-05-11 13:17:03,072 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:17:03,073 - discord.client - INFO - logging in using static token
+2025-05-11 13:17:03,724 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:17:03,950 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:17:03,955 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:17:03,991 - bot - ERROR - ❌ Failed to load cogs.tarot: ExtensionFailed: Extension 'cogs.tarot' raised an error: NameError: name 'Tuple' is not defined
+2025-05-11 13:17:03,996 - bot - INFO - ✅ Loaded cogs.sass
+2025-05-11 13:17:03,998 - bot - ERROR - ❌ Failed to load cogs.images: ExtensionFailed: Extension 'cogs.images' raised an error: NameError: name 'app_commands' is not defined
+2025-05-11 13:17:04,011 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:17:04,015 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:17:04,518 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6a4d72041f16985656af503125d3a204).
+2025-05-11 13:17:06,520 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:17:06,520 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:17:06,520 - bot - INFO - 🛠️ Loaded 5 cogs: Music, Coven, Sass, Moderation, Admin
+2025-05-11 13:17:57,659 - web - INFO - Discord bot started in background thread
+2025-05-11 13:17:58,331 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:17:58,332 - discord.client - INFO - logging in using static token
+2025-05-11 13:17:59,225 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:17:59,415 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:17:59,417 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:17:59,455 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 13:17:59,460 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 13:17:59,464 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 13:17:59,473 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:17:59,474 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:17:59,776 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5321b1aa31e404671f3ded7ed1e846ed).
+2025-05-11 13:18:01,779 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:18:01,779 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:18:01,779 - bot - INFO - 🛠️ Loaded 6 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin
+2025-05-11 13:37:31,175 - web - INFO - Discord bot started in background thread
+2025-05-11 13:37:33,231 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:37:33,235 - discord.client - INFO - logging in using static token
+2025-05-11 13:37:33,893 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:37:34,321 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:37:34,328 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:37:34,403 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 13:37:34,408 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 13:37:34,410 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 13:37:34,437 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:37:34,440 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:37:34,774 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: baac326509d54f20a650e78ba171022f).
+2025-05-11 13:37:36,777 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:37:36,777 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:37:36,777 - bot - INFO - 🛠️ Loaded 6 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin
+2025-05-11 13:37:44,889 - web - INFO - Discord bot started in background thread
+2025-05-11 13:37:45,518 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:37:45,519 - discord.client - INFO - logging in using static token
+2025-05-11 13:37:46,365 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:37:46,592 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:37:46,594 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:37:46,633 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 13:37:46,639 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 13:37:46,641 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 13:37:46,650 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:37:46,651 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:37:46,969 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 940729ea11cb0615b1b1d3b0ec02ace6).
+2025-05-11 13:37:48,972 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:37:48,972 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:37:48,972 - bot - INFO - 🛠️ Loaded 6 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin
+2025-05-11 13:38:17,382 - web - INFO - Discord bot started in background thread
+2025-05-11 13:38:17,926 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:38:17,927 - discord.client - INFO - logging in using static token
+2025-05-11 13:38:18,439 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:38:18,659 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:38:18,661 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:38:18,696 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 13:38:18,701 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 13:38:18,703 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 13:38:18,713 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:38:18,715 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:38:18,721 - bot - INFO - ✅ Loaded cogs.setup
+2025-05-11 13:38:19,235 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 43ed0e99c45dfbc8c31e2fd894cbbe75).
+2025-05-11 13:38:21,237 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:38:21,237 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:38:21,238 - bot - INFO - 🛠️ Loaded 7 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin, ServerSetup
+2025-05-11 13:38:21,927 - web - INFO - Discord bot started in background thread
+2025-05-11 13:38:22,583 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:38:22,584 - discord.client - INFO - logging in using static token
+2025-05-11 13:38:23,336 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:38:23,595 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:38:23,597 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:38:23,639 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 13:38:23,645 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 13:38:23,647 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 13:38:23,659 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:38:23,661 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:38:23,662 - bot - INFO - ✅ Loaded cogs.setup
+2025-05-11 13:38:23,956 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f821b6f0ce48bbcbf4e933cedc00045a).
+2025-05-11 13:38:25,958 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:38:25,958 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:38:25,959 - bot - INFO - 🛠️ Loaded 7 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin, ServerSetup
+2025-05-11 13:53:51,855 - web - INFO - Discord bot started in background thread
+2025-05-11 13:53:53,476 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:53:53,477 - discord.client - INFO - logging in using static token
+2025-05-11 13:53:54,095 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:53:54,405 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:53:54,412 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:53:54,518 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 13:53:54,524 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 13:53:54,527 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 13:53:54,552 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:53:54,554 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:53:54,558 - bot - INFO - ✅ Loaded cogs.setup
+2025-05-11 13:53:54,913 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b4606881e550368e3a0478e62051e148).
+2025-05-11 13:53:56,917 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:53:56,917 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:53:56,917 - bot - INFO - 🛠️ Loaded 7 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin, ServerSetup
+2025-05-11 13:56:37,501 - web - INFO - Discord bot started in background thread
+2025-05-11 13:56:39,238 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:56:39,240 - discord.client - INFO - logging in using static token
+2025-05-11 13:56:39,842 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:56:40,259 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:56:40,266 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:56:40,348 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 13:56:40,352 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 13:56:40,355 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 13:56:40,379 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:56:40,381 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:56:40,384 - bot - INFO - ✅ Loaded cogs.setup
+2025-05-11 13:56:40,749 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9f7c5430130fe3180eda5b40ffaea542).
+2025-05-11 13:56:42,752 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:56:42,752 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:56:42,752 - bot - INFO - 🛠️ Loaded 7 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin, ServerSetup
+2025-05-11 13:59:08,769 - web - INFO - Discord bot started in background thread
+2025-05-11 13:59:09,714 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 13:59:09,715 - discord.client - INFO - logging in using static token
+2025-05-11 13:59:10,487 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 13:59:10,670 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 13:59:10,671 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 13:59:10,699 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 13:59:10,705 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 13:59:10,707 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 13:59:10,714 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 13:59:10,716 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 13:59:10,716 - bot - INFO - ✅ Loaded cogs.setup
+2025-05-11 13:59:11,104 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1916ac5e8dda343b7e4b18f2f11cfdae).
+2025-05-11 13:59:13,107 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 13:59:13,107 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 13:59:13,108 - bot - INFO - 🛠️ Loaded 7 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin, ServerSetup
+2025-05-11 14:00:29,221 - web - INFO - Discord bot started in background thread
+2025-05-11 14:00:30,878 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-11 14:00:30,879 - discord.client - INFO - logging in using static token
+2025-05-11 14:00:31,598 - bot - INFO - ✅ Loaded core utilities
+2025-05-11 14:00:31,857 - bot - INFO - ✅ Loaded cogs.music
+2025-05-11 14:00:31,863 - bot - INFO - ✅ Loaded cogs.coven
+2025-05-11 14:00:31,948 - bot - INFO - ✅ Loaded cogs.tarot
+2025-05-11 14:00:31,954 - bot - ERROR - ❌ Failed to load cogs.sass: ExtensionFailed: Extension 'cogs.sass' raised an error: CommandRegistrationError: The command tarot is already an existing command or alias.
+2025-05-11 14:00:31,956 - bot - INFO - ✅ Loaded cogs.images
+2025-05-11 14:00:31,994 - bot - INFO - ✅ Loaded cogs.moderation
+2025-05-11 14:00:31,997 - bot - INFO - ✅ Loaded cogs.admin
+2025-05-11 14:00:32,001 - bot - INFO - ✅ Loaded cogs.setup
+2025-05-11 14:00:32,434 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b724bf18cab0786f6fbcf755adfebfcb).
+2025-05-11 14:00:34,438 - bot - INFO - ⚡ Logged in as Wilhelmina D. Spell#8611 (ID: 1369770611764756500)
+2025-05-11 14:00:34,438 - bot - INFO - 🔗 Invite: https://discord.com/oauth2/authorize?client_id=1369770611764756500&permissions=2147485696&scope=bot%20applications.commands
+2025-05-11 14:00:34,439 - bot - INFO - 🛠️ Loaded 7 cogs: Music, Coven, Tarot, ImageGen, Moderation, Admin, ServerSetup
